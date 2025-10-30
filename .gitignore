@@ -1,0 +1,16 @@
+*~
+*.sw[p_]
+*.gem
+.bundle
+Gemfile.lock
+**/vendor/bundle
+node_modules
+npm-debug.log*
+package-lock.json
+codekit-config.json
+.DS_Store
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site

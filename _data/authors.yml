@@ -1,0 +1,8 @@
+Yi:
+  name: "Yi Wang"
+  bio: "frfr"
+  avatar: "assets/images/bio-photo.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ywang485@gmail.com"
