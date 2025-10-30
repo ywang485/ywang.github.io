@@ -32,6 +32,9 @@ I did my PhD in Computer Science at Arizona State University, where the majority
 ![plotmap](assets/images/plotmap.png)
 [PlotMap](https://arxiv.org/abs/2309.15242) is a technical pipeline that maps stories into game maps. We use LLMs to extract conceptual locations where key plot events happened in the story, and then assign the conceptual locations to concrete positions on a given geometric map to satisfy spatial constraints extracted from the story. We have implemented two technical methods to solve the location assignment problem: an evolutionary computation based approach through Covariance Matrix Adaptation Evolution Strategy (CMA-ES), and a Reinforcement Learning (RL) based approach.
 
+<br />
+<br />
+
 ![IndoorWorld](assets/images/indoorworld.png)
 [IndoorWorld](https://arxiv.org/abs/2506.12331) is an LLM-driven agent simulation framework aimed at providing virtual environment and benchmarks that tightly integrates social and physical dynamics in both open-ended simulation and closed-form tasking solving settings. We demonstrated the application of this framework with a series of building occupant simulation experiments to show how it can inform architectural design and resource allocation.
 
