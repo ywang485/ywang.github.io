@@ -37,12 +37,16 @@ plugins:
 author:
   name: Yi Wang
   avatar: "./assets/images/profile.png"
-  email: "ywang485@gmail.com"
+  bio: Researcher on AI and creativity, field-operational Japanese history nerd and cat slave.
+  location: "California"
+  #email: ""
   links:
     - label: "Email"
       icon: "fab fa-fw fa-email"
+      url: "mailto: ywang485@gmail.com"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-scholar"
+      url: "https://scholar.google.com/citations?user=e0hRtGUAAAAJ"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
