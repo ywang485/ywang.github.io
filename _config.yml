@@ -21,7 +21,7 @@
 title: 
 email: ywang485@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Yi Wang's Homepage
+  Yi Wang's Personal Homepage
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ywang485.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ywang485
@@ -40,14 +40,14 @@ author:
   avatar: "./assets/images/profile.png"
   bio: Researcher on AI and creativity, field-operational Japanese history nerd and cat slave.
   location: "California"
-  #email: ""
+  email: "ywang485@gmail.com"
   links:
-    - label: "Email"
-      icon: "fab fa-fw fa-email"
-      url: "mailto: ywang485@gmail.com"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-scholar"
+      icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=e0hRtGUAAAAJ"
+    - label: "Itch.io"
+      icon: "fa-solid fa-gamepad"
+      url: "junjunlowpoly.itch.io"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
