@@ -40,7 +40,7 @@ author:
   avatar: "./assets/images/profile.png"
   bio: Researcher on AI and creativity, field-operational Japanese history nerd and cat slave.
   location: "California"
-  email: "ywang485@gmail.com"
+  #email: "ywang485@gmail.com"
   links:
     - label: "Email"
       icon: "fa-solid fa-envelope"
