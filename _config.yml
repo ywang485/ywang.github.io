@@ -42,6 +42,9 @@ author:
   location: "California"
   email: "ywang485@gmail.com"
   links:
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: "mailto: ywang485@gmail.com"
     - label: "Google Scholar"
       icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=e0hRtGUAAAAJ"
